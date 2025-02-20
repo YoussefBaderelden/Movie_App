@@ -1,0 +1,13 @@
+com.example.movies.app-jetified-window-1.0.0-beta04-0 C:\Users\nada ayman\.gradle\caches\transforms-3\11d66f75cca45772e0c63f7f8555a29c\transformed\jetified-window-1.0.0-beta04\res
+com.example.movies.app-core-1.6.0-1 C:\Users\nada ayman\.gradle\caches\transforms-3\6225987ffa1e666bf3cd01f4adeb1e35\transformed\core-1.6.0\res
+com.example.movies.app-jetified-window-java-1.0.0-beta04-2 C:\Users\nada ayman\.gradle\caches\transforms-3\6313c9ea85cafb7461e7f6eb0583f000\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.movies.app-jetified-annotation-experimental-1.1.0-3 C:\Users\nada ayman\.gradle\caches\transforms-3\988057c6371343f7679e1ce708ae5c60\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.movies.app-debug-4 E:\flutter\project\movies\android\app\src\debug\res
+com.example.movies.app-main-5 E:\flutter\project\movies\android\app\src\main\res
+com.example.movies.app-pngs-6 E:\flutter\project\movies\build\app\generated\res\pngs\debug
+com.example.movies.app-resValues-7 E:\flutter\project\movies\build\app\generated\res\resValues\debug
+com.example.movies.app-rs-8 E:\flutter\project\movies\build\app\generated\res\rs\debug
+com.example.movies.app-mergeDebugResources-9 E:\flutter\project\movies\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.movies.app-mergeDebugResources-10 E:\flutter\project\movies\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.movies.app-merged_res-11 E:\flutter\project\movies\build\app\intermediates\merged_res\debug
+com.example.movies.app-packaged_res-12 E:\flutter\project\movies\build\shared_preferences_android\intermediates\packaged_res\debug
