@@ -1,0 +1,18 @@
+{
+  "email": "E-Mail",
+  "password": "Password",
+  "forgetYourPassword" : "Forget your Password",
+  "logIn" : "Log in",
+  "dontHaveAccount" : "Don't have Account",
+  "createAccount" : "Create Account",
+  "or" : "Or",
+  "logInWithGoogle" : "Log in With Google",
+  "enterValidEmail" : "Enter valid E-Mail",
+  "name" : "Name",
+  "confirmPassword" : "Confirm Password",
+  "phoneNumber" : "Phone Number",
+  "alreadyHaveAccount"  : "Already Have Account",
+  "verifyMail" : "Verify E-mail",
+  "register" : "Register",
+  "enterYourPassword" : "Enter Your Password"
+}
